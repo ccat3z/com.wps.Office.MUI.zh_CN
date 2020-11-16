@@ -6,4 +6,7 @@
   <summary>Chinese (Simplified) mui package for WPS Office</summary>
   <project_license></project_license>
   <metadata_license>CC0-1.0</metadata_license>
+  <releases>
+    <release version="11.1.0.9719" date="2020-10-28"/>
+  </releases>
 </component>
