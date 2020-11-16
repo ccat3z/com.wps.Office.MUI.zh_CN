@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <id>com.wps.Office.MUI.zh_CN</id>
+  <extends>com.wps.Office</extends>
+  <name>WPS Office zh_CN mui Chinese (Simplified) MUI Package</name>
+  <summary>Chinese (Simplified) mui package for WPS Office</summary>
+  <project_license></project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>
